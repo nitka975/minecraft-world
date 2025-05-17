@@ -25,6 +25,7 @@ export default function Ground({ onAddBlock}){
                     )
                 })
             )}
+           
         </group>
     );
 }
